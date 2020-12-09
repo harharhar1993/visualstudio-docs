@@ -1,7 +1,5 @@
 ---
 title: "Walkthrough: Add an Application Page to a Workflow | Microsoft Docs"
-description: In this walkthrough, add an application page to a SharePoint workflow solution. Amend the workflow code. Create, code, and test the application page.
-ms.custom: SEO-VS-2020
 ms.date: "02/02/2017"
 ms.topic: how-to
 dev_langs:
@@ -40,7 +38,7 @@ ms.workload:
 
 - You also have to complete the project in the topic [Walkthrough: Create a workflow with association and initiation forms](../sharepoint/walkthrough-creating-a-workflow-with-association-and-initiation-forms.md).
 
-## Amend the workflow code
+## Ammend the workflow code
  First, add a line of code to the workflow to set the value of the Outcome column to the amount of the expense report. This value is used later in the expense report summary calculation.
 
 #### To set the value of the outcome column in the workflow
